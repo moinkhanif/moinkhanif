@@ -1,4 +1,4 @@
-# Welcome to the Guild, fellow wizards and travellers! 🧙‍♂️🔮
+# Welcome to my Guild, fellow wizards and travellers! 🧙‍♂️🔮
 
 Summoning you to the world of code and magic is Moin Khan (he/him), known as **moinkhanif**, a web mage hailing from the mystic realm of Bangalore, India. Prepare for an odyssey through the fantastical landscapes where code and creativity intertwine!
 
