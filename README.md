@@ -1,51 +1,27 @@
-# Welcome to my Guild, fellow wizards and travellers! 🧙‍♂️🔮
+<p align="center">
+  <a href="https://moinkhanif.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Moin+%F0%9F%91%8B;Frontend+Engineer;Accessibility+Advocate;React+%7C+Next.js" alt="Typing SVG" />
+  </a>
+</p>
 
-Summoning you to the world of code and magic is Moin Khan (he/him), known as **moinkhanif**, a web mage hailing from the mystic realm of Bangalore, India. Prepare for an odyssey through the fantastical landscapes where code and creativity intertwine!
+<p align="center">
+  Frontend engineer who cares about building web experiences that are accessible and performant.
+</p>
 
-## 🌐 Portrait of a Web Mage
+<p align="center">
+  🎯 Focused on frontend · comfortable across the stack<br>
+  ♿ Accessibility isn't optional — I audit, advocate, and ship inclusive interfaces<br>
+  🌱 Diving deeper into full-stack and DevOps
+</p>
 
-Clad in robes woven from lines of code and digital dreams, I am the weaver of web experiences, crafting spells that bridge imagination and technology. From the **React** spellbook to the incantations of **Ruby on Rails**, my code weaves tales of digital wonder.
+---
 
-## 💻 Enchanted Realms of Frontend
+<p align="center">
+  <a href="https://moinkhanif.dev"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=react&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/moinkhanif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-The heart of my quest lies in frontend magic:
-
-- Weaving intricate user interfaces with the **React** spell.
-- Empowering seamless interactions with the mystic power of **Redux**.
-- Enchanting visual spectacles with **HTML5** and **CSS3** sorcery.
-- Riding the wings of **Next.js**, I soar through the digital ether.
-
-## ✨ Tome of Arcane Knowledge
-
-- **Languages**: JavaScript, Ruby
-- **Frontend**: React, Redux, Next.js
-- **Backend**: Ruby on Rails
-- **Tools & Techniques**: Git magic, AWS sorcery, the ancient art of SEO enhancement
-- **Current Quest**: Channeling React spells at Bazaarvoice to enhance accessibility and awaken SEO power!
-
-## 🌈 Guardian of Digital Harmonies
-
-A celestial spirit for digital inclusivity, I cast spells that resonate with all:
-
-- Crafting **inclusive interfaces** that honour every guild member.
-- Weaving **accessible design patterns** to bridge the gap between dimensions.
-- Guiding teams through **accessibility quests**, transforming challenges into victories.
-
-## 🚀 Chronicles of Legendary Quests
-
-In the chronicles of old:
-
-- I summoned intern recruitment portals with the harmonious spells of **Next.js** and **Ruby on Rails**.
-- Songs of WordPress websites ascending with performance and SEO magic.
-
-## 🌟 Beyond the Saga
-
-When not scripting digital sagas:
-
-- Crafting enchanting realms through [side projects](https://github.com/moinkhanif?tab=repositories), from Ruby-based trend trackers to flower e-commerce dreams.
-
-## 📫 Quest for Companions
-
-Ready to embark on an anime-inspired code quest? Whether you're a fellow mage or a curious traveller, let's unite and explore the magical tech realm together.
-
-[Email](mailto:kmoin786@gmail.com) | [LinkedIn](https://www.linkedin.com/in/moinkhanif)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinkhanif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
