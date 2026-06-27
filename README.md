@@ -17,9 +17,9 @@
 ---
 
 <p align="center">
-  <a href="https://moinkhanif.dev"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://moinkhanif.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=react&logoColor=white" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/moinkhanif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/moinkhanif" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
